@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Amazon",
+    "domains": [ "amazon.com", "amazontrust.com", "awstrust.com", "amazonaws.com", "aws.amazon.com" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "Comodo",
+    "domains": [ "comodoca.com", "comodo.com", "usertrust.com", "trust-provider.com" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "DigiCert",
+    "aliases": [ "Symantec", "GeoTrust", "Thawte", "RapidSSL" ],
+    "domains": [ "digicert.com", "symantec.com", "geotrust.com", "rapidssl.com", "thawte.com", "digitalcertvalidation.com", "volusion.digitalcertvalidation.com", "stratossl.digitalcertvalidation.com", "intermediatecertificate.digitalcertvalidation.com", "1and1.digitalcertvalidation.com"],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "GlobalSign",
+    "domains": [ "globalsign.com" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "GoDaddy",
+    "aliases": [ "Starfield Technologies" ],
+    "domains": [ "godaddy.com", "starfieldtech.com" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "Google Trust Services",
+    "domains": [ "pki.google.com", "google.com" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  },
+  {
+    "name": "Lets Encrypt",
+    "domains": [ "letsencrypt.org" ],
+    "certificates": {
+      "fingerprints": []
+    }
+  }
+]
